@@ -6,8 +6,10 @@
 - 기본적인 설정 및 도구들은 [everything-claude-code](https://github.com/affaan-m/everything-claude-code) 기반
   - claude code에게 위 repo의 SKILL.md의 예시 등을 java 기준으로 개선하게 했음
 
+---
 ### Tech Stack
 - JDK 25
 - Spring Boot 4.0+
 - RDB
 - etc
+---
